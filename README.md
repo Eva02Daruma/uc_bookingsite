@@ -3,19 +3,21 @@
 ## Stack
 
 - typescript
-- next js
+- React (FrontEnd)
+- next js(Framwork for React)
 - vercel (host)
 - tursodb (db noSQL)
+- Supabase ( db postgreSQL)
 - tailwindcss (css styling)
 - cloudflare(image hosting opt)
 
 ## Project Overview
 
-Queer Plataform to trip guides and lgbt friendly hotels
+Queer Plataform to book lgbt tour guides and queer friendly hotels
 
 ### App Purpose
 
-become the first platafform to brind a safe travel for LGBT Individuals
+become the first platafform to brind a safe travel for LGBT Individuals 
 
 ## Architecture Design
 
